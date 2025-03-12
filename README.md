@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+- 🔭 I’m currently working on SeriousGame Projects
+- 🌱 I’m currently learning C#, .NET and Unity 
 <!--
 **gamedev890/gamedev890** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
